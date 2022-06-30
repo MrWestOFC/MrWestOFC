@@ -8,7 +8,7 @@
 
 
 #### Rede de Estudo 
-<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" width="85"/>
+<a href="https://www.udemy.com/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" width="85"/></a>
 
 </div>
 
@@ -41,6 +41,7 @@
 ## Ferramentas
 
 <code><img width="70" src="https://charlescorrea.com.br/wp-content/uploads/_976_principais-ides-para-desenvolvimento-python.png"></code>
+<code><img height="20" src="https://charlescorrea.com.br/wp-content/uploads/_161_principais-ides-para-desenvolvimento-java.png"></code>
 <code><img height="20" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png"></code>
 <code><img height="20" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
