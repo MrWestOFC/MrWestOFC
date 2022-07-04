@@ -56,7 +56,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MrWestOFC&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true%22">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phstutors&layout=compact&langs_count=7&theme=chartreuse-dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrWestOFC&layout=compact&langs_count=7&theme=chartreuse-dark">
 </div>
 
 <hr>
